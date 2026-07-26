@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hey, I'm Tomas 👋
+
+CS sophomore focused on building backend systems and AI infrastructure for accessibility tech.
+
+I'm passionate about turning AI outputs, such as embeddings, model responses, and raw text, into systems that power real devices for people who need them.
 
 <!--
 **TomasTorrado/TomasTorrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
