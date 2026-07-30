@@ -7,7 +7,7 @@ I'm passionate about turning AI outputs, such as embeddings, model responses, an
 ### What I've Been Building
 
 - [**Brailliant**](https://github.com/TomasTorrado/Brailliant):
-An app that reads text from a camera, screen, or PDF and converts it into physical Braille, on a custom 6-dot Braille cell
+An app that reads text from a camera, screen, or PDF and converts it into physical Braille, on a custom 6-dot Braille cell.
 
 - [**RemindMe**](https://github.com/TomasTorrado/RemindMe):
 A wearable device that recognizes a face and tells the user who the person is and how they're connected.
